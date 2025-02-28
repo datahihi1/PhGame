@@ -1,0 +1,20 @@
+{
+    "name": "datahihi1/phgame",
+    "description": "A PHP library for construct simple games. Uses core PHP features to implement the library",
+    "type": "library",
+    "version": "0.0.1-dev",
+    "keywords": ["game", "php"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Datahihi1\\Phgame\\": "cli/"
+        }
+    },
+    "authors": [
+        {
+            "name": "datahihi1",
+            "email": "datahihi1100@gmail.com"
+        }
+    ],
+    "require": {}
+}
